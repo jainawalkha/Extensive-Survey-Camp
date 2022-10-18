@@ -25,3 +25,9 @@ Then after all the field work was done, points were saved in the total station a
 Simillarly, cross section of the bund are drawn in all the cross section drawings and volume of earthwork required to fill is calculated using excel sheets.
 
 
+# Restoration-of-deteriorated-earthen-bund
+Used total station, prism or an object to focus on, measuring tape and with all this some steel pegs. With the help of total station and the prism we found out the center line alignment of the detoriated bund with the help of required number of station changes and backsighting. From the refernece or the starting point we took relative levels at every 15 meter interval and at every 30 meter interval atleast 6 cross sections were taken 3 on each side with 5 meter spacing between them.
+
+Like this a total of 250-300 points are collected with the help of the total station and all the data is carefully saved in the TS and noted manually. Total station postion was changed multiple times in this project and carefully following the process change of position was done. This completes our field work.
+
+Moving to our office work, the data from the total station is transferred to the computer having SWDTM software. Importing all the points into AutoCAD using MS Excel and SWDTM and in AutoCAD the alignment is drawn and Longitudinal drawings and Cross sectional drawings are createrd using specific commands in SWDTM. Cross section shows the detoriated bund levels and we know the elevation of the existing bund so drawing the existing bund line in the AutoCAD in all the cross sectionaldrawings using the elevation, and keeping the slope of 2V:1H on the upstream side and 1.5V:1H on the downstream side, we can find out the volume of earthwork required for the restoration and cost estimation can be further done.
